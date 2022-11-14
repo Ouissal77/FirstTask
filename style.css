@@ -1,0 +1,32 @@
+li a{
+   
+    text-decoration: none;
+    
+}
+li {
+    list-style: none;
+}
+ ul {
+    display: flex;
+ }
+
+.items {
+    float: left;
+    display: flex;
+  gap:30px;
+}
+.navbar{
+    align-items: center;
+    
+    background-color: aqua;
+    display: flex;
+   justify-content: space-between;
+}
+body{
+    background-color: antiquewhite;
+    margin:10px 100px;
+
+}
+.ul2{
+    gap:15px;
+}
